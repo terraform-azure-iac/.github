@@ -1,16 +1,11 @@
 # Terraform Azure IaC
 
 ## Repositories
-
-## terraform-azure-webpage
-
-## terraform-azure-iot
-
-## terraform-azure-template
-
-## terraform-azure-backend
-
-## terraform-azure-github-actions-runner
+- terraform-azure-webpage
+- terraform-azure-iot
+- terraform-azure-template
+- terraform-azure-backend
+- terraform-azure-github-actions-runner
 <!--
 
 **Here are some ideas to get you started:**
